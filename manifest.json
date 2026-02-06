@@ -1,0 +1,15 @@
+{
+  "short_name": "Linear",
+  "name": "Linear Local",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#080809",
+  "background_color": "#080809",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
